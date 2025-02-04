@@ -7,3 +7,8 @@
 {"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.799Z"}
 {"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.835Z"}
 {"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.866Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-04T10:18:24.278Z"}
+{"level":"info","message":"Ticket booked for user user123 in event 1","timestamp":"2025-02-04T10:23:01.817Z"}
+{"level":"info","message":"Event initialized with ID: 2","timestamp":"2025-02-04T10:24:10.068Z"}
+{"level":"error","message":"ConflictError: User already has a booking for this event\n    at book (C:\\Users\\DELL\\Desktop\\Great\\src\\controllers\\EventController.js:42:15)","timestamp":"2025-02-04T10:25:01.836Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-04T10:27:21.235Z"}

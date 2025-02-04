@@ -1,0 +1,1 @@
+{"level":"error","message":"ConflictError: User already has a booking for this event\n    at book (C:\\Users\\DELL\\Desktop\\Great\\src\\controllers\\EventController.js:42:15)","timestamp":"2025-02-04T10:25:01.836Z"}

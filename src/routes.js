@@ -44,4 +44,14 @@ router.get('/status/:eventId',
   eventController.getStatus
 );
 
+// Get booking status
+router.get('/booking-status/:eventId/:userId',
+  [
+    param('eventId').isInt().withMessage('Event ID must be an integer'),
+    param('userId').isString().notEmpty().withMessage('User ID is required')
+  ],
+  validate,
+  eventController.getBookingStatus
+);
+
 module.exports = router;
