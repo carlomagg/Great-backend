@@ -1,0 +1,9 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-04T10:02:51.963Z"}
+{"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:06:02.156Z"}
+{"level":"info","message":"Ticket booked for user user123 in event 1","timestamp":"2025-02-04T10:07:33.271Z"}
+{"level":"info","message":"Booking cancelled for user user123 in event 1","timestamp":"2025-02-04T10:08:22.365Z"}
+{"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.680Z"}
+{"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.765Z"}
+{"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.799Z"}
+{"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.835Z"}
+{"level":"info","message":"Event initialized with ID: 1","timestamp":"2025-02-04T10:13:21.866Z"}
